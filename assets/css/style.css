@@ -676,3 +676,6 @@ textarea.materialize-textarea:focus:not([readonly]) + label {
 .project-information li a {
   color: #5da4d9;
 }
+.custom-content-wrapper li {
+	list-style-type: square !important
+}
